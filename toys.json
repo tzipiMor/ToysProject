@@ -1,0 +1,107 @@
+[
+    {
+        "name": "Bratz",
+        "info": "Is a plastic doll produced by the American toy company Mattel.",
+        "category": "Doll",
+        "img_url": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.or…",
+        "price": 65,
+        "user_id": "63217b2f969b8d0eecc8c796"
+    },
+    {
+        "name": "Barbi",
+        "info": "Is a plastic doll produced by the American toy company Mattel.",
+        "category": "Doll",
+        "img_url": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.or…",
+        "price": 50,
+        "user_id": "63217bfa946b3e0b2ab7b95b"
+    },
+    {
+        "name": "webkinz",
+        "info": "Webkinz is a stuffed animal franchise by the Canadian toy company Ganz",
+        "category": "Doll",
+        "img_url": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.or…",
+        "price": 130,
+        "user_id": "63217b2f969b8d0eecc8c796"
+    },
+    {
+        "name": "Pu Hdov",
+        "info": "Winnie the Pooh is a children's book by British author Alan Alexander …",
+        "category": "Doll",
+        "img_url": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.or…",
+        "price": 80,
+        "user_id": "63217bfa946b3e0b2ab7b95b"
+    },
+    {
+        "name": "Tennis ball",
+        "info": "A tennis ball is a ball designed for the sport of tennis, dog love this toy.. ",
+        "category": "Toys 4 animals",
+        "img_url": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.or…",
+        "price": 15,
+        "user_id": "6321c14521c944f0140792d6"
+    },
+    {
+        "name": "bones toy",
+        "info": "The natural KONG Classic red rubber formula is created to be durable",
+        "category": "Toys 4 animals",
+        "img_url": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.or…",
+        "price": 70,
+        "user_id": "63280f16b12081bdbf5e3d62"
+    },
+    {
+
+        "name": "Piglet",
+        "info": " a dog doll from the Invincible series ",
+        "category": "Toys 4 animals",
+        "img_url": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.or…",
+        "price": 130,
+        "user_id": "6321c14521c944f0140792d6"
+    },
+    {
+        "name": "frizbi",
+        "info": "A flying saucer or frisbee",
+        "category": "Toys 4 animals",
+        "img_url": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.or…",
+        "price": 100,
+        "user_id": "63280f16b12081bdbf5e3d62"
+    },
+    {
+
+        "name": "Monopoly",
+        "info": "Monopoly is the classic fast-dealing property trading board game. ",
+        "category": "Board Game",
+        "img_url": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.or…",
+        "price": 150,
+        "user_id": "63217b2f969b8d0eecc8c796"
+
+    },
+    {
+        "name": "Taky",
+        "info": "Taky is a card game developed by Israeli game inventor Haim Shafir.",
+        "category": "Board Game",
+        "img_url": "https://jerusalemtoys.co.il/Cat_490334_177.jpg",
+        "price": 150,
+        "user_id": "63280f16b12081bdbf5e3d62"
+    },
+    {
+        "_id": "634d962dbe795f3f0d8f2b7c",
+        "name": "ladder and snakes",
+        "info": "Its a game in which players move counters along a series of squares.",
+        "category": "Board Game",
+        "img_url": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.or…",
+        "price": 150,
+        "date_created": "2022-10-17T17:45:28.494Z",
+        "user_id": "634d94b8be795f3f0d8f2b76",
+        "__v": 0
+      },
+      {
+        "_id": "634d95b0be795f3f0d8f2b7a",
+        "name": "Azraell",
+        "info": "A memory game of thinking and luck from Foxmind.",
+        "category": "Board Game",
+        "img_url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwj35YKgtuf6…",
+        "price": 100,
+        "date_created": "2022-10-17T17:45:28.494Z",
+        "user_id": "634d94b8be795f3f0d8f2b76",
+        "__v": 0
+      }
+]
